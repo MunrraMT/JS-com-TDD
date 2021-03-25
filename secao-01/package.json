@@ -1,0 +1,19 @@
+{
+  "name": "secao-01",
+  "version": "1.0.0",
+  "description": "TDD com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MunrraMT/JS-com-TDD.git"
+  },
+  "author": "André Rodrigues Melgaço dos Santos <dev-asantos@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MunrraMT/JS-com-TDD/issues"
+  },
+  "homepage": "https://github.com/MunrraMT/JS-com-TDD#readme"
+}
