@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MunrraMT/JS-com-TDD/issues"
   },
-  "homepage": "https://github.com/MunrraMT/JS-com-TDD#readme"
+  "homepage": "https://github.com/MunrraMT/JS-com-TDD#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
